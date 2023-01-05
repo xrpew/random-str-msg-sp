@@ -1,0 +1,19 @@
+{
+  "name": "random-str-msg-sp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xrpew/random-str-msg-sp.git"
+  },
+  "author": "Sergio Pérez <spergio08@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xrpew/random-str-msg-sp/issues"
+  },
+  "homepage": "https://github.com/xrpew/random-str-msg-sp#readme"
+}
